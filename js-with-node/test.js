@@ -9,7 +9,7 @@
 let number = 123;
 console.log(number)
 
-// node.js다운받은 이후부터 
+// node.js 다운받은 이후부터 
 // js코드s는 Terminal을 열어 'node js파일명' 을(확장자명빼고) 입력하면 console을 출력해 볼수 있다. 
 
 // 구체적인 방법 순서
