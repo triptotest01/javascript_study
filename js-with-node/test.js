@@ -1,8 +1,10 @@
-// Node.js를 활용하면 자바스크립트의 console.log를 terminal창에서 바로 출력할수있다.\
-// 즉,  javascript 를 html파일을 생성하고 연결한후 브라우저 개발자도구를 열지 않고도 vscode 터미널상에서 출력하며 코드 테스트 해볼수 있다.
-// 이 폴더안의 자바스크립트 부터는 Node.js를 통한 개발환경을 구축하여 js 연습을 진행한다. 
+// Node.js를 활용하면 자바스크립트의 console.log를 terminal창에서 바로 출력할수있다.
+// 즉, 기존에는 javascript 출력을위해 html파일을 생성하고 연결한후 브라우저 개발자도구 콘솔탭에서 확인하는 
+// 번거로운 절차가 간소화 된다.
 
+// 이 폴더안의 자바스크립트 부터는 Node.js를 통한 개발환경을 구축하여 js 연습을 진행한다. 
 // node.js 다운로드 링크: https://nodejs.org/ko/download/
+// node.js다운 이후 Terminal을 열어 'node js파일명' 을(확장자명빼고) 입력하면 console을 출력해 볼수 있다. 
 
 let number = 123;
 console.log(number)
